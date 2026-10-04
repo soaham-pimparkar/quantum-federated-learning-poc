@@ -33,7 +33,7 @@ def server_fn(context):
         min_available_clients=5,
         evaluate_metrics_aggregation_fn=aggregate_metrics
     )
-    config = ServerConfig(num_rounds=20)
+    config = ServerConfig(num_rounds=8)
     
     # Fixed parameter name: 'config' instead of 'server_config'
     return ServerAppComponents(strategy=strategy, config=config)
