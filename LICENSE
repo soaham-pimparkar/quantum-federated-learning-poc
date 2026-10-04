@@ -1,0 +1,22 @@
+MIT License
+
+Copyright (c) 2026 Soaham Pimparkar
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of### Where to Put the License File
+
+The `LICENSE` file must be placed **directly in the root directory** of your repository (e.g., `quantum-federated-learning/LICENSE`), right next to your `pyproject.toml` and `README.md`. GitHub automatically detects a file named `LICENSE` in the root folder and displays an open-source badge on your repository main page.
+
+---
+
+### Complete `LICENSE` File (MIT License)
+
+Create a file named **`LICENSE`** in your root folder, leave off any file extension, and paste this standard text (update the year and your name as appropriate):
+
+```text
+MIT License
+
+Copyright (c) 2026 Soaham Pimparkar
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"),
